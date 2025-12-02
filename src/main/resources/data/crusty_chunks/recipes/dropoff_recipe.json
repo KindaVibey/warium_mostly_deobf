@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "crusty_chunks:conveyor"
+    },
+    "b": {
+      "tag": "forge:ingots/steel"
+    }
+  },
+  "result": {
+    "item": "crusty_chunks:conveyor_dropoff",
+    "count": 1
+  }
+}

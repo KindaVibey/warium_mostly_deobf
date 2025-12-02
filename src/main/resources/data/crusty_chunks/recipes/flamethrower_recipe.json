@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "bc ",
+    " ba"
+  ],
+  "key": {
+    "a": {
+      "item": "crusty_chunks:advanced_component"
+    },
+    "b": {
+      "item": "crusty_chunks:firing_mechanism"
+    },
+    "c": {
+      "item": "crusty_chunks:steel_tube"
+    }
+  },
+  "result": {
+    "item": "crusty_chunks:flame_thrower_animated",
+    "count": 1
+  }
+}

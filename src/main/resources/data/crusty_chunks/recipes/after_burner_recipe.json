@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "  d",
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "crusty_chunks:steelplate"
+    },
+    "b": {
+      "item": "crusty_chunks:engine_component"
+    },
+    "c": {
+      "item": "crusty_chunks:brass_fitting"
+    },
+    "d": {
+      "item": "crusty_chunks:steel_tube"
+    }
+  },
+  "result": {
+    "item": "crusty_chunks:after_burner",
+    "count": 1
+  }
+}

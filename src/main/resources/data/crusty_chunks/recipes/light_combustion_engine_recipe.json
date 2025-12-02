@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcd",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "crusty_chunks:engine_component"
+    },
+    "b": {
+      "item": "crusty_chunks:advanced_component"
+    },
+    "c": {
+      "tag": "forge:ingots/steel"
+    },
+    "d": {
+      "item": "crusty_chunks:steel_tube"
+    }
+  },
+  "result": {
+    "item": "crusty_chunks:light_combustion_engine",
+    "count": 1
+  }
+}

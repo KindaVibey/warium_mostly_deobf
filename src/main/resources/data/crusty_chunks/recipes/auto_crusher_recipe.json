@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bcb",
+    "d d"
+  ],
+  "key": {
+    "a": {
+      "item": "crusty_chunks:steel_tube"
+    },
+    "b": {
+      "item": "crusty_chunks:steel_gear"
+    },
+    "c": {
+      "item": "crusty_chunks:mineral_grinder"
+    },
+    "d": {
+      "item": "crusty_chunks:cut_component"
+    }
+  },
+  "result": {
+    "item": "crusty_chunks:crusher",
+    "count": 1
+  }
+}

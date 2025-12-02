@@ -1,0 +1,912 @@
+ [
+  {
+    "block": "crusty_chunks:aluminum_plating",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_stairs",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_slab",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_trapdoor",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_side_panel",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_ac_barrel",
+    "mass": 30.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_dark_gray",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_stairs_dark_gray",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_slab_dark_gray",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_trapdoor_dark_gray",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_side_panel_dark_gray",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_ac_barrel_dark_gray",
+    "mass": 30.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_green",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_stairs_green",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_slab_green",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_trapdoor_green",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_side_panel_green",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_ac_barrel_green",
+    "mass": 30.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_yellow",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_stairs_yellow",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_slab_yellow",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_trapdoor_yellow",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_side_panel_yellow",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_ac_barrel_yellow",
+    "mass": 30.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_brown",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_stairs_brown",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_slab_brown",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_trapdoor_brown",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_side_panel_brown",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_ac_barrel_brown",
+    "mass": 30.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_red",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_stairs_red",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_slab_red",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_trapdoor_red",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_side_panel_red",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_ac_barrel_red",
+    "mass": 30.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_white",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_stairs_white",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_slab_white",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_trapdoor_white",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_side_panel_white",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_ac_barrel_white",
+    "mass": 30.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_blue",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_stairs_blue",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_slab_blue",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_trapdoor_blue",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_side_panel_blue",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_ac_barrel_blue",
+    "mass": 30.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_black",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_stairs_black",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_slab_black",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_trapdoor_black",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_side_panel_black",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_ac_barrel_black",
+    "mass": 30.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_cyan",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_stairs_cyan",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_slab_cyan",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_trapdoor_cyan",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_side_panel_cyan",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_ac_barrel_cyan",
+    "mass": 30.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_gray",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_stairs_gray",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_slab_gray",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_trapdoor_gray",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_side_panel_gray",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_ac_barrel_gray",
+    "mass": 30.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_light_blue",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_stairs_light_blue",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_slab_light_blue",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_trapdoor_light_blue",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_side_panel_light_blue",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_ac_barrel_light_blue",
+    "mass": 30.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_light_gray",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_stairs_light_gray",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_slab_light_gray",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_trapdoor_light_gray",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_side_panel_light_gray",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_ac_barrel_light_gray",
+    "mass": 30.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_lime",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_stairs_lime",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_slab_lime",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_trapdoor_lime",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_side_panel_lime",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_ac_barrel_lime",
+    "mass": 30.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_magenta",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_stairs_magenta",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_slab_magenta",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_trapdoor_magenta",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_side_panel_magenta",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_ac_barrel_magenta",
+    "mass": 30.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_orange",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_stairs_orange",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_slab_orange",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_trapdoor_orange",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_side_panel_orange",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_ac_barrel_orange",
+    "mass": 30.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_pink",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_stairs_pink",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_slab_pink",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_trapdoor_pink",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_side_panel_pink",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_ac_barrel_pink",
+    "mass": 30.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_purple",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_stairs_purple",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_slab_purple",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_plating_trapdoor_purple",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_side_panel_purple",
+    "mass": 20.0,
+    "priority": 101
+  },
+  {
+    "block": "crusty_chunks:aluminum_ac_barrel_purple",
+    "mass": 30.0,
+    "priority": 101
+  },
+   {
+     "block": "crusty_chunks:fission_bomb",
+     "mass": 7000.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:fusion_bomb",
+     "mass": 13000.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:battle_cannon_breech",
+     "mass": 3500.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:battle_cannon_barrel",
+     "mass": 400.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:thick_battle_cannon_barrel",
+     "mass": 400.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:artillery_barrel",
+     "mass": 1000.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:artillerybreech",
+     "mass": 5000.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:light_machine_gun",
+     "mass": 50.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:machine_gun",
+     "mass": 75.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:heavy_machine_gun",
+     "mass": 150.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:machine_gun_barrel",
+     "mass": 25.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:covered_machine_gun_barrel",
+     "mass": 200.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:light_autocannon",
+     "mass": 300.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:autocannon_barrel",
+     "mass": 25.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:autocannon",
+     "mass": 350.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:autocannon_drum",
+     "mass": 200.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:rotary_auto_cannon",
+     "mass": 600.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:rac_barrel",
+     "mass": 100.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:rocket_pod",
+     "mass": 600.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:rocket_pod_chamber",
+     "mass": 500.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:large_rocket_pod_chamber",
+     "mass": 600.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:large_rocket_pod",
+     "mass": 800.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:countermeasure_dispenser",
+     "mass": 50.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:aimer_node",
+     "mass": 50.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:node_trigger",
+     "mass": 20.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:node_trigger_on",
+     "mass": 20.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:ordinance_controller",
+     "mass": 60.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:ordinance_inline_fission_warhead",
+     "mass": 6000.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:ordinance_inline_fusion_warhead_stage_1",
+     "mass": 7000.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:ordinance_inline_fusion_warhead_stage_2",
+     "mass": 7000.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:ordinance_fission_initiator_head",
+     "mass": 500.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:ordinance_thruster",
+     "mass": 300.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:ordinance_fins",
+     "mass": 200.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:ordinance_core",
+     "mass": 200.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:ordinance_heavy_warhead",
+     "mass": 500.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:ordinance_incendiary_warhead",
+     "mass": 500.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:ordinance_inline_warhead",
+     "mass": 500.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:ordinance_ir_seeker_head",
+     "mass": 300.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:ordinance_sarh_seeker",
+     "mass": 300.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:ordinance_kinetic_head",
+     "mass": 800.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:ordinance_cluster_warhead",
+     "mass": 300.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:torpedo_thruster",
+     "mass": 300.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:torpedo_core",
+     "mass": 300.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:torpedo_warhead",
+     "mass": 600.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:redstone_tnt",
+     "mass": 500.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:cluster_of_bombs",
+     "mass": 500.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:small_bomb",
+     "mass": 200.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:gas_bomb",
+     "mass": 200.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:light_combustion_engine",
+     "mass": 300.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:fuel_tank",
+     "mass": 225.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:fuel_tank_module",
+     "mass": 225.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:fuel_tank_input",
+     "mass": 225.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:damagedfueltank",
+     "mass": 225.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:jet_compressor",
+     "mass": 200.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:jet_turbine",
+     "mass": 300.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:jet_gearbox",
+     "mass": 300.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:jet_exhaust",
+     "mass": 200.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:after_burner",
+     "mass": 300.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:explosive_barrel",
+     "mass": 400.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:reinforced_glass",
+     "mass": 50.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:reinforced_glass_trapdoor",
+     "mass": 25.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:glass_trapdoor",
+     "mass": 25.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:tinted_glass_trapdoor",
+     "mass": 25.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:drive_shaft",
+     "mass": 2000.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:extension_shaft",
+     "mass": 500.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:engine_cyllinder",
+     "mass": 4000.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:large_engine_smokestack",
+     "mass": 500.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:passenger_seat",
+     "mass": 30.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:energy_battery",
+     "mass": 3000.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:empty_missile_hardpoint",
+     "mass": 75.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:fire_spear_missile_hardpoint",
+     "mass": 400.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:seeker_spear_missile_hardpoint",
+     "mass": 450.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:strike_spear_missile_hardpoint",
+     "mass": 450.0,
+     "priority": 101
+   },
+   {
+     "block": "crusty_chunks:radar_spear_missile_hardpoint",
+     "mass": 450.0,
+     "priority": 101
+   }
+ ]

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "crusty_chunks:petrolium",
+    "crusty_chunks:kerosene",
+    "crusty_chunks:diesel",
+    "crusty_chunks:oil",
+    "crusty_chunks:crude_oil"
+  ]
+}

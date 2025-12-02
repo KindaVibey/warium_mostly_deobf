@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab ",
+    "cd ",
+    "  e"
+  ],
+  "key": {
+    "a": {
+      "item": "crusty_chunks:brass_fitting"
+    },
+    "b": {
+      "item": "crusty_chunks:advanced_component"
+    },
+    "c": {
+      "item": "crusty_chunks:steel_component"
+    },
+    "d": {
+      "item": "crusty_chunks:steel_tube"
+    },
+    "e": {
+      "item": "crusty_chunks:combustion_cylinder"
+    }
+  },
+  "result": {
+    "item": "crusty_chunks:engine_component",
+    "count": 1
+  }
+}

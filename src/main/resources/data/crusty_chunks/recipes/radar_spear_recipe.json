@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    " bc",
+    " cd"
+  ],
+  "key": {
+    "a": {
+      "item": "crusty_chunks:radar_component"
+    },
+    "b": {
+      "item": "crusty_chunks:fire_spear_rocket"
+    },
+    "c": {
+      "item": "crusty_chunks:advanced_component"
+    },
+    "d": {
+      "item": "crusty_chunks:bent_component"
+    }
+  },
+  "result": {
+    "item": "crusty_chunks:radar_spear_missile",
+    "count": 1
+  }
+}

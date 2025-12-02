@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aab",
+    "acd",
+    "bde"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_ingot"
+    },
+    "b": {
+      "item": "crusty_chunks:bent_component"
+    },
+    "c": {
+      "item": "crusty_chunks:tech_component"
+    },
+    "d": {
+      "item": "crusty_chunks:advanced_component"
+    },
+    "e": {
+      "item": "crusty_chunks:copper_coil"
+    }
+  },
+  "result": {
+    "item": "crusty_chunks:radar_component",
+    "count": 1
+  }
+}

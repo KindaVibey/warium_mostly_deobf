@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "crusty_chunks:lithium_ore",
+    "crusty_chunks:structural_concrete",
+    "crusty_chunks:uranium_ore",
+    "crusty_chunks:steel_block"
+  ]
+}

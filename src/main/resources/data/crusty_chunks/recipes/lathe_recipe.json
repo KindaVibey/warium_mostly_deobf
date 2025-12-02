@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bcb",
+    "bdb"
+  ],
+  "key": {
+    "a": {
+      "item": "crusty_chunks:steel_component"
+    },
+    "b": {
+      "tag": "forge:ingots/steel"
+    },
+    "c": {
+      "item": "crusty_chunks:cast_component"
+    },
+    "d": {
+      "item": "crusty_chunks:steel_gear"
+    }
+  },
+  "result": {
+    "item": "crusty_chunks:lathe",
+    "count": 1
+  }
+}

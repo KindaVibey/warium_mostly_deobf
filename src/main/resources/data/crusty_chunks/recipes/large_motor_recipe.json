@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab ",
+    "cde",
+    "af "
+  ],
+  "key": {
+    "a": {
+      "item": "crusty_chunks:steel_component"
+    },
+    "b": {
+      "item": "crusty_chunks:advanced_component"
+    },
+    "c": {
+      "item": "crusty_chunks:steel_cylinder"
+    },
+    "d": {
+      "item": "crusty_chunks:giant_coil"
+    },
+    "e": {
+      "item": "crusty_chunks:cable"
+    },
+    "f": {
+      "item": "crusty_chunks:copper_coil"
+    }
+  },
+  "result": {
+    "item": "crusty_chunks:large_electric_motor",
+    "count": 1
+  }
+}
